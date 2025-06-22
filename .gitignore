@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+http-requests-1.jpg
+http-requests-2.jpg
+http-requests-3.jpg
+http-requests-4.jpg
